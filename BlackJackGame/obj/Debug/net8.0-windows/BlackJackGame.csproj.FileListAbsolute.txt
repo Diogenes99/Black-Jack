@@ -1,0 +1,17 @@
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\bin\Debug\net8.0-windows\BlackJackGame.exe
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\bin\Debug\net8.0-windows\BlackJackGame.deps.json
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\bin\Debug\net8.0-windows\BlackJackGame.runtimeconfig.json
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\bin\Debug\net8.0-windows\BlackJackGame.dll
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\bin\Debug\net8.0-windows\BlackJackGame.pdb
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\BlackJackGame.Form1.resources
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\BlackJackGame.csproj.GenerateResource.cache
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\BlackJackGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\BlackJackGame.AssemblyInfoInputs.cache
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\BlackJackGame.AssemblyInfo.cs
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\BlackJackGame.csproj.CoreCompileInputs.cache
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\BlackJackGame.dll
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\refint\BlackJackGame.dll
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\BlackJackGame.pdb
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\BlackJackGame.genruntimeconfig.cache
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\ref\BlackJackGame.dll
+C:\Users\cicer\source\repos\BlackJackGame\BlackJackGame\obj\Debug\net8.0-windows\BlackJackGame.Properties.Resources.resources
